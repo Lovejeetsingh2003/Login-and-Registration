@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="Login">Login</string>
+    <string name="etEmail">📧 Enter Your Email</string>
+    <string name="etPassword">🔑 Enter Your Password</string>
+    <string name="tvForget">Forget Password?</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvRegister">Does\'nt Have Account?</string>
+    <string name="tvReg">Register</string>
+    <string name="etName">Enter Your Name</string>
+    <string name="etConfirm">Confirm Password</string>
+    <string name="btnReg">Register</string>
+    <string name="etPhone">Enter Your Mob. No.</string>
+    <string name="tvFor">Forget Password</string>
+    <string name="btnOtp">Get Otp</string>
+    <string name="etContent">Forget Password For</string>
+    <string name="Star">*</string>
+    <string name="btnChange">Change Password</string>
+    <string name="tvNewPsw">Set New Password</string>
+    <string name="etNewPsw">Enter New Password</string>
+    <string name="etConPsw">Confirm Password</string>
+    <string name="btnUpdate">Update</string>
+</resources>
